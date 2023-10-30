@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/xml/standalone_badge_gravity_bottom_end.xml",
+        "source": "org.jitsi.meet.sdk-material-1.6.1-4:/xml/standalone_badge_gravity_bottom_end.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/xml/rn_dev_preferences.xml",
+        "source": "org.jitsi.meet.sdk-jetified-react-native-0.69.12-release-28:/xml/rn_dev_preferences.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/xml/file_provider_paths.xml",
+        "source": "org.jitsi.meet.sdk-packaged_res-65:/xml/file_provider_paths.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/xml/standalone_badge_gravity_bottom_start.xml",
+        "source": "org.jitsi.meet.sdk-material-1.6.1-4:/xml/standalone_badge_gravity_bottom_start.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/xml/standalone_badge.xml",
+        "source": "org.jitsi.meet.sdk-material-1.6.1-4:/xml/standalone_badge.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/xml/standalone_badge_offset.xml",
+        "source": "org.jitsi.meet.sdk-material-1.6.1-4:/xml/standalone_badge_offset.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/xml/standalone_badge_gravity_top_start.xml",
+        "source": "org.jitsi.meet.sdk-material-1.6.1-4:/xml/standalone_badge_gravity_top_start.xml"
+    }
+]

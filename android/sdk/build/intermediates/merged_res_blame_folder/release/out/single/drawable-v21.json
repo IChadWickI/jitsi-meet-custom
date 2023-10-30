@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "org.jitsi.meet.sdk-appcompat-1.4.2-16:/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-v21/abc_btn_colored_material.xml",
+        "source": "org.jitsi.meet.sdk-appcompat-1.4.2-16:/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-v21/material_cursor_drawable.xml",
+        "source": "org.jitsi.meet.sdk-material-1.6.1-4:/drawable-v21/material_cursor_drawable.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-v21/abc_list_divider_material.xml",
+        "source": "org.jitsi.meet.sdk-appcompat-1.4.2-16:/drawable-v21/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-v21/abc_dialog_material_background.xml",
+        "source": "org.jitsi.meet.sdk-appcompat-1.4.2-16:/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-v21/mtrl_navigation_bar_item_background.xml",
+        "source": "org.jitsi.meet.sdk-material-1.6.1-4:/drawable-v21/mtrl_navigation_bar_item_background.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-v21/notification_action_background.xml",
+        "source": "org.jitsi.meet.sdk-core-1.7.0-23:/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-v21/abc_edit_text_material.xml",
+        "source": "org.jitsi.meet.sdk-appcompat-1.4.2-16:/drawable-v21/abc_edit_text_material.xml"
+    }
+]

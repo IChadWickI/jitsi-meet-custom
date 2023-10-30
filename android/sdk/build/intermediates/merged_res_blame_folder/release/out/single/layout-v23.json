@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/layout-v23/exo_styled_player_control_ffwd_button.xml",
+        "source": "org.jitsi.meet.sdk-jetified-exoplayer-ui-2.18.1-15:/layout-v23/exo_styled_player_control_ffwd_button.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/layout-v23/exo_styled_player_control_rewind_button.xml",
+        "source": "org.jitsi.meet.sdk-jetified-exoplayer-ui-2.18.1-15:/layout-v23/exo_styled_player_control_rewind_button.xml"
+    }
+]

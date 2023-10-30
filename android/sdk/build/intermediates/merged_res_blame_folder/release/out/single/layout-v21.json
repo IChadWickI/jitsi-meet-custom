@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/layout-v21/notification_template_icon_group.xml",
+        "source": "org.jitsi.meet.sdk-core-1.7.0-23:/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/layout-v21/notification_action.xml",
+        "source": "org.jitsi.meet.sdk-core-1.7.0-23:/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/layout-v21/notification_template_custom_big.xml",
+        "source": "org.jitsi.meet.sdk-core-1.7.0-23:/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/layout-v21/notification_action_tombstone.xml",
+        "source": "org.jitsi.meet.sdk-core-1.7.0-23:/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/layout-v21/gph_video_player_view.xml",
+        "source": "org.jitsi.meet.sdk-jetified-ui-2.3.4-26:/layout-v21/gph_video_player_view.xml"
+    }
+]

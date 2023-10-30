@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "org.jitsi.meet.sdk-appcompat-1.4.2-16:/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "org.jitsi.meet.sdk-appcompat-1.4.2-16:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v24/gph_ic_loader_1b.xml",
+        "source": "org.jitsi.meet.sdk-jetified-ui-2.3.4-26:/drawable-anydpi-v24/gph_ic_loader_1b.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v24/gph_ic_text_pink.xml",
+        "source": "org.jitsi.meet.sdk-jetified-ui-2.3.4-26:/drawable-anydpi-v24/gph_ic_text_pink.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v24/gph_ic_sound.xml",
+        "source": "org.jitsi.meet.sdk-jetified-ui-2.3.4-26:/drawable-anydpi-v24/gph_ic_sound.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v24/gph_ic_clips.xml",
+        "source": "org.jitsi.meet.sdk-jetified-ui-2.3.4-26:/drawable-anydpi-v24/gph_ic_clips.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v24/gph_ic_caption_on.xml",
+        "source": "org.jitsi.meet.sdk-jetified-ui-2.3.4-26:/drawable-anydpi-v24/gph_ic_caption_on.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v24/gph_ic_loader_3a.xml",
+        "source": "org.jitsi.meet.sdk-jetified-ui-2.3.4-26:/drawable-anydpi-v24/gph_ic_loader_3a.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v24/gph_ic_search_black.xml",
+        "source": "org.jitsi.meet.sdk-jetified-ui-2.3.4-26:/drawable-anydpi-v24/gph_ic_search_black.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v24/gph_ic_text_white.xml",
+        "source": "org.jitsi.meet.sdk-jetified-ui-2.3.4-26:/drawable-anydpi-v24/gph_ic_text_white.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v24/gph_ic_info_toolbar.xml",
+        "source": "org.jitsi.meet.sdk-jetified-ui-2.3.4-26:/drawable-anydpi-v24/gph_ic_info_toolbar.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v24/gph_ic_loader_2c.xml",
+        "source": "org.jitsi.meet.sdk-jetified-ui-2.3.4-26:/drawable-anydpi-v24/gph_ic_loader_2c.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v24/gph_ic_gif.xml",
+        "source": "org.jitsi.meet.sdk-jetified-ui-2.3.4-26:/drawable-anydpi-v24/gph_ic_gif.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v24/gph_ic_text.xml",
+        "source": "org.jitsi.meet.sdk-jetified-ui-2.3.4-26:/drawable-anydpi-v24/gph_ic_text.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v24/gph_ic_caption_off.xml",
+        "source": "org.jitsi.meet.sdk-jetified-ui-2.3.4-26:/drawable-anydpi-v24/gph_ic_caption_off.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v24/gph_ic_search_pink.xml",
+        "source": "org.jitsi.meet.sdk-jetified-ui-2.3.4-26:/drawable-anydpi-v24/gph_ic_search_pink.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v24/gph_ic_loader_3c.xml",
+        "source": "org.jitsi.meet.sdk-jetified-ui-2.3.4-26:/drawable-anydpi-v24/gph_ic_loader_3c.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v24/gph_ic_loader_1c.xml",
+        "source": "org.jitsi.meet.sdk-jetified-ui-2.3.4-26:/drawable-anydpi-v24/gph_ic_loader_1c.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v24/gph_ic_back.xml",
+        "source": "org.jitsi.meet.sdk-jetified-ui-2.3.4-26:/drawable-anydpi-v24/gph_ic_back.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v24/gph_ic_emoji.xml",
+        "source": "org.jitsi.meet.sdk-jetified-ui-2.3.4-26:/drawable-anydpi-v24/gph_ic_emoji.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v24/gph_video_player_controls_background.xml",
+        "source": "org.jitsi.meet.sdk-jetified-ui-2.3.4-26:/drawable-anydpi-v24/gph_video_player_controls_background.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v24/gph_ic_loader_2b.xml",
+        "source": "org.jitsi.meet.sdk-jetified-ui-2.3.4-26:/drawable-anydpi-v24/gph_ic_loader_2b.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v24/gph_ic_loader_1a.xml",
+        "source": "org.jitsi.meet.sdk-jetified-ui-2.3.4-26:/drawable-anydpi-v24/gph_ic_loader_1a.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v24/gph_ic_loader_3b.xml",
+        "source": "org.jitsi.meet.sdk-jetified-ui-2.3.4-26:/drawable-anydpi-v24/gph_ic_loader_3b.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v24/gph_ic_loader_2a.xml",
+        "source": "org.jitsi.meet.sdk-jetified-ui-2.3.4-26:/drawable-anydpi-v24/gph_ic_loader_2a.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v24/gph_ic_verified_user.xml",
+        "source": "org.jitsi.meet.sdk-jetified-ui-2.3.4-26:/drawable-anydpi-v24/gph_ic_verified_user.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v24/gph_ic_search_white.xml",
+        "source": "org.jitsi.meet.sdk-jetified-ui-2.3.4-26:/drawable-anydpi-v24/gph_ic_search_white.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v24/gph_ic_no_sound.xml",
+        "source": "org.jitsi.meet.sdk-jetified-ui-2.3.4-26:/drawable-anydpi-v24/gph_ic_no_sound.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v24/gph_ic_back_white.xml",
+        "source": "org.jitsi.meet.sdk-jetified-ui-2.3.4-26:/drawable-anydpi-v24/gph_ic_back_white.xml"
+    }
+]

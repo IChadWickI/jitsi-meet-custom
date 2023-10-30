@@ -1,0 +1,26 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_notification
+drawable images_avatar
+drawable images_btn_google_signin_dark_normal
+drawable images_downloadlocalrecording
+drawable images_dropboxlogo_square
+drawable images_giphy_icon
+drawable images_giphy_logo
+drawable images_iconcloud
+drawable images_iconinfo
+drawable images_iconusers
+drawable node_modules_reactnavigation_elements_src_assets_backicon
+drawable node_modules_reactnavigation_elements_src_assets_backiconmask
+id jitsiView
+id jitsi_layout
+layout activity_jitsi_meet
+string app_name
+string dropbox_app_key
+string ongoing_notification_action_hang_up
+string ongoing_notification_action_mute
+string ongoing_notification_action_unmute
+string ongoing_notification_channel_name
+string ongoing_notification_text
+string ongoing_notification_title
+style JitsiMeetActivityStyle

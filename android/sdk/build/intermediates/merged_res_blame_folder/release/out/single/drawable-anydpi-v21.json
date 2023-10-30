@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v21/exo_ic_play_circle_filled.xml",
+        "source": "org.jitsi.meet.sdk-jetified-exoplayer-ui-2.18.1-15:/drawable-anydpi-v21/exo_ic_play_circle_filled.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v21/exo_ic_speed.xml",
+        "source": "org.jitsi.meet.sdk-jetified-exoplayer-ui-2.18.1-15:/drawable-anydpi-v21/exo_ic_speed.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v21/exo_ic_skip_next.xml",
+        "source": "org.jitsi.meet.sdk-jetified-exoplayer-ui-2.18.1-15:/drawable-anydpi-v21/exo_ic_skip_next.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v21/exo_ic_pause_circle_filled.xml",
+        "source": "org.jitsi.meet.sdk-jetified-exoplayer-ui-2.18.1-15:/drawable-anydpi-v21/exo_ic_pause_circle_filled.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v21/exo_icon_fullscreen_exit.xml",
+        "source": "org.jitsi.meet.sdk-jetified-exoplayer-ui-2.18.1-15:/drawable-anydpi-v21/exo_icon_fullscreen_exit.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v21/gph_ic_recent.xml",
+        "source": "org.jitsi.meet.sdk-jetified-ui-2.3.4-26:/drawable-anydpi-v21/gph_ic_recent.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v21/exo_edit_mode_logo.xml",
+        "source": "org.jitsi.meet.sdk-jetified-exoplayer-ui-2.18.1-15:/drawable-anydpi-v21/exo_edit_mode_logo.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v21/exo_icon_fastforward.xml",
+        "source": "org.jitsi.meet.sdk-jetified-exoplayer-ui-2.18.1-15:/drawable-anydpi-v21/exo_icon_fastforward.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v21/exo_ic_chevron_left.xml",
+        "source": "org.jitsi.meet.sdk-jetified-exoplayer-ui-2.18.1-15:/drawable-anydpi-v21/exo_ic_chevron_left.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v21/exo_icon_stop.xml",
+        "source": "org.jitsi.meet.sdk-jetified-exoplayer-ui-2.18.1-15:/drawable-anydpi-v21/exo_icon_stop.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v21/exo_ic_audiotrack.xml",
+        "source": "org.jitsi.meet.sdk-jetified-exoplayer-ui-2.18.1-15:/drawable-anydpi-v21/exo_ic_audiotrack.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v21/exo_ic_settings.xml",
+        "source": "org.jitsi.meet.sdk-jetified-exoplayer-ui-2.18.1-15:/drawable-anydpi-v21/exo_ic_settings.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v21/exo_ic_rewind.xml",
+        "source": "org.jitsi.meet.sdk-jetified-exoplayer-ui-2.18.1-15:/drawable-anydpi-v21/exo_ic_rewind.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v21/gph_ic_trending_line.xml",
+        "source": "org.jitsi.meet.sdk-jetified-ui-2.3.4-26:/drawable-anydpi-v21/gph_ic_trending_line.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v21/exo_ic_fullscreen_enter.xml",
+        "source": "org.jitsi.meet.sdk-jetified-exoplayer-ui-2.18.1-15:/drawable-anydpi-v21/exo_ic_fullscreen_enter.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v21/exo_icon_play.xml",
+        "source": "org.jitsi.meet.sdk-jetified-exoplayer-ui-2.18.1-15:/drawable-anydpi-v21/exo_icon_play.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v21/gph_ic_sticker.xml",
+        "source": "org.jitsi.meet.sdk-jetified-ui-2.3.4-26:/drawable-anydpi-v21/gph_ic_sticker.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v21/gph_ic_locked_red.xml",
+        "source": "org.jitsi.meet.sdk-jetified-ui-2.3.4-26:/drawable-anydpi-v21/gph_ic_locked_red.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v21/exo_ic_skip_previous.xml",
+        "source": "org.jitsi.meet.sdk-jetified-exoplayer-ui-2.18.1-15:/drawable-anydpi-v21/exo_ic_skip_previous.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v21/exo_ic_forward.xml",
+        "source": "org.jitsi.meet.sdk-jetified-exoplayer-ui-2.18.1-15:/drawable-anydpi-v21/exo_ic_forward.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v21/exo_icon_repeat_off.xml",
+        "source": "org.jitsi.meet.sdk-jetified-exoplayer-ui-2.18.1-15:/drawable-anydpi-v21/exo_icon_repeat_off.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v21/exo_icon_shuffle_on.xml",
+        "source": "org.jitsi.meet.sdk-jetified-exoplayer-ui-2.18.1-15:/drawable-anydpi-v21/exo_icon_shuffle_on.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v21/exo_icon_pause.xml",
+        "source": "org.jitsi.meet.sdk-jetified-exoplayer-ui-2.18.1-15:/drawable-anydpi-v21/exo_icon_pause.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v21/gph_avatar_default.xml",
+        "source": "org.jitsi.meet.sdk-jetified-ui-2.3.4-26:/drawable-anydpi-v21/gph_avatar_default.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v21/exo_ic_subtitle_on.xml",
+        "source": "org.jitsi.meet.sdk-jetified-exoplayer-ui-2.18.1-15:/drawable-anydpi-v21/exo_ic_subtitle_on.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v21/exo_ic_check.xml",
+        "source": "org.jitsi.meet.sdk-jetified-exoplayer-ui-2.18.1-15:/drawable-anydpi-v21/exo_ic_check.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v21/exo_icon_fullscreen_enter.xml",
+        "source": "org.jitsi.meet.sdk-jetified-exoplayer-ui-2.18.1-15:/drawable-anydpi-v21/exo_icon_fullscreen_enter.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v21/exo_icon_next.xml",
+        "source": "org.jitsi.meet.sdk-jetified-exoplayer-ui-2.18.1-15:/drawable-anydpi-v21/exo_icon_next.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v21/exo_icon_rewind.xml",
+        "source": "org.jitsi.meet.sdk-jetified-exoplayer-ui-2.18.1-15:/drawable-anydpi-v21/exo_icon_rewind.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v21/exo_icon_previous.xml",
+        "source": "org.jitsi.meet.sdk-jetified-exoplayer-ui-2.18.1-15:/drawable-anydpi-v21/exo_icon_previous.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v21/exo_ic_fullscreen_exit.xml",
+        "source": "org.jitsi.meet.sdk-jetified-exoplayer-ui-2.18.1-15:/drawable-anydpi-v21/exo_ic_fullscreen_exit.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v21/exo_icon_repeat_one.xml",
+        "source": "org.jitsi.meet.sdk-jetified-exoplayer-ui-2.18.1-15:/drawable-anydpi-v21/exo_icon_repeat_one.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v21/exo_ic_chevron_right.xml",
+        "source": "org.jitsi.meet.sdk-jetified-exoplayer-ui-2.18.1-15:/drawable-anydpi-v21/exo_ic_chevron_right.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v21/exo_icon_repeat_all.xml",
+        "source": "org.jitsi.meet.sdk-jetified-exoplayer-ui-2.18.1-15:/drawable-anydpi-v21/exo_icon_repeat_all.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v21/exo_ic_default_album_image.xml",
+        "source": "org.jitsi.meet.sdk-jetified-exoplayer-ui-2.18.1-15:/drawable-anydpi-v21/exo_ic_default_album_image.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v21/exo_ic_subtitle_off.xml",
+        "source": "org.jitsi.meet.sdk-jetified-exoplayer-ui-2.18.1-15:/drawable-anydpi-v21/exo_ic_subtitle_off.xml"
+    },
+    {
+        "merged": "org.jitsi.meet.sdk-merged_res-37:/drawable-anydpi-v21/exo_icon_shuffle_off.xml",
+        "source": "org.jitsi.meet.sdk-jetified-exoplayer-ui-2.18.1-15:/drawable-anydpi-v21/exo_icon_shuffle_off.xml"
+    }
+]
