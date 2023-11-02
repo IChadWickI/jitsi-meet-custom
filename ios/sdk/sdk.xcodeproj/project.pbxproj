@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 46;
+	objectVersion = 54;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -41,7 +41,9 @@
 		4E812F3A28F9A4ED0087ACC9 /* JitsiMeetView+Private.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E812F3628F9A4ED0087ACC9 /* JitsiMeetView+Private.m */; };
 		4ED4FFF32721B9B90074E620 /* JitsiAudioSession.h in Headers */ = {isa = PBXBuildFile; fileRef = 4ED4FFF12721B9B90074E620 /* JitsiAudioSession.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4ED4FFF42721B9B90074E620 /* JitsiAudioSession.m in Sources */ = {isa = PBXBuildFile; fileRef = 4ED4FFF22721B9B90074E620 /* JitsiAudioSession.m */; };
-		6F08DF7D4458EE3CF3F36F6D /* BuildFile in Frameworks */ = {isa = PBXBuildFile; };
+		68866BFA2AF386DF006F969B /* ToggleCameraIos.h in Headers */ = {isa = PBXBuildFile; fileRef = 68866BF82AF386DF006F969B /* ToggleCameraIos.h */; };
+		68866BFB2AF386DF006F969B /* ToggleCameraIos.m in Sources */ = {isa = PBXBuildFile; fileRef = 68866BF92AF386DF006F969B /* ToggleCameraIos.m */; };
+		6F08DF7D4458EE3CF3F36F6D /* (null) in Frameworks */ = {isa = PBXBuildFile; };
 		9A8EE79C77C17743BB66E8BD /* libPods-JitsiMeetSDKLite.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B46497DE9A95BDF5E312AF48 /* libPods-JitsiMeetSDKLite.a */; };
 		A4A934E9212F3ADB001E9388 /* Dropbox.m in Sources */ = {isa = PBXBuildFile; fileRef = A4A934E8212F3ADB001E9388 /* Dropbox.m */; };
 		C6245F5D2053091D0040BE68 /* image-resize@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C6245F5B2053091D0040BE68 /* image-resize@2x.png */; };
@@ -145,6 +147,8 @@
 		4ED4FFF12721B9B90074E620 /* JitsiAudioSession.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JitsiAudioSession.h; sourceTree = "<group>"; };
 		4ED4FFF22721B9B90074E620 /* JitsiAudioSession.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JitsiAudioSession.m; sourceTree = "<group>"; };
 		4ED4FFF52721BAE10074E620 /* JitsiAudioSession+Private.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "JitsiAudioSession+Private.h"; sourceTree = "<group>"; };
+		68866BF82AF386DF006F969B /* ToggleCameraIos.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ToggleCameraIos.h; sourceTree = "<group>"; };
+		68866BF92AF386DF006F969B /* ToggleCameraIos.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ToggleCameraIos.m; sourceTree = "<group>"; };
 		86389F55993FAAF6AEB3FA3E /* Pods-JitsiMeetSDKLite.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JitsiMeetSDKLite.release.xcconfig"; path = "../Pods/Target Support Files/Pods-JitsiMeetSDKLite/Pods-JitsiMeetSDKLite.release.xcconfig"; sourceTree = "<group>"; };
 		891FE43DAD30BC8976683100 /* Pods-JitsiMeetSDK.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JitsiMeetSDK.release.xcconfig"; path = "../Pods/Target Support Files/Pods-JitsiMeetSDK/Pods-JitsiMeetSDK.release.xcconfig"; sourceTree = "<group>"; };
 		8F48C340DE0D91D1012976C5 /* Pods-JitsiMeetSDKLite.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JitsiMeetSDKLite.debug.xcconfig"; path = "../Pods/Target Support Files/Pods-JitsiMeetSDKLite/Pods-JitsiMeetSDKLite.debug.xcconfig"; sourceTree = "<group>"; };
@@ -194,7 +198,7 @@
 			files = (
 				0BB9AD791F5EC6D7001C08DB /* Intents.framework in Frameworks */,
 				0BB9AD771F5EC6CE001C08DB /* CallKit.framework in Frameworks */,
-				6F08DF7D4458EE3CF3F36F6D /* BuildFile in Frameworks */,
+				6F08DF7D4458EE3CF3F36F6D /* (null) in Frameworks */,
 				3453F4A32680898C4A40E821 /* libPods-JitsiMeetSDK.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -293,6 +297,8 @@
 				4E51B76225E5345E0038575A /* ScheenshareEventEmiter.h */,
 				4E51B76325E5345E0038575A /* ScheenshareEventEmiter.m */,
 				DE9A0170289A9A9A00E41CBB /* Lite-Info.plist */,
+				68866BF82AF386DF006F969B /* ToggleCameraIos.h */,
+				68866BF92AF386DF006F969B /* ToggleCameraIos.m */,
 			);
 			path = src;
 			sourceTree = "<group>";
@@ -369,6 +375,7 @@
 				DE65AACC2318028300290BEC /* JitsiMeetBaseLogHandler+Private.h in Headers */,
 				0B412F221EDEF6EA00B1A0A6 /* JitsiMeetViewDelegate.h in Headers */,
 				4E0EF63528CA317E005D1B03 /* JMCallKitListener.h in Headers */,
+				68866BFA2AF386DF006F969B /* ToggleCameraIos.h in Headers */,
 				4E0EF63028CA2FB3005D1B03 /* JMCallKitEmitter.h in Headers */,
 				4ED4FFF32721B9B90074E620 /* JitsiAudioSession.h in Headers */,
 				4E0EF63928CA4069005D1B03 /* JMCallKitProxy.h in Headers */,
@@ -669,6 +676,7 @@
 				0BA13D311EE83FF8007BEF7F /* ExternalAPI.m in Sources */,
 				0BCA49601EC4B6C600B793EE /* POSIX.m in Sources */,
 				C8AFD2802462C613000293D2 /* InfoPlistUtil.m in Sources */,
+				68866BFB2AF386DF006F969B /* ToggleCameraIos.m in Sources */,
 				C6CC49AF207412CF000DFA42 /* PiPViewCoordinator.swift in Sources */,
 				DEFC743F21B178FA00E4DD96 /* LocaleDetector.m in Sources */,
 				0BCA495F1EC4B6C600B793EE /* AudioMode.m in Sources */,
@@ -858,7 +866,11 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "";
 				INFOPLIST_FILE = src/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = org.jitsi.JitsiMeetSDK.ios;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -887,7 +899,11 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "";
 				INFOPLIST_FILE = src/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = org.jitsi.JitsiMeetSDK.ios;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -920,7 +936,11 @@
 					"JITSI_MEET_SDK_LITE=1",
 				);
 				INFOPLIST_FILE = "src/Lite-Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = org.jitsi.JitsiMeetSDK.ios;
 				PRODUCT_NAME = JitsiMeetSDK;
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -954,7 +974,11 @@
 					JITSI_MEET_SDK_LITE,
 				);
 				INFOPLIST_FILE = "src/Lite-Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = org.jitsi.JitsiMeetSDK.ios;
 				PRODUCT_NAME = JitsiMeetSDK;
 				PROVISIONING_PROFILE_SPECIFIER = "";

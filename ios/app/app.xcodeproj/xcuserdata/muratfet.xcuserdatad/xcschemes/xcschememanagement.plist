@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>JitsiMeet.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>JitsiMeetBroadcastExtension.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>90</integer>
+		</dict>
+		<key>JitsiMeetCompanion (Complication).xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>92</integer>
+		</dict>
+		<key>JitsiMeetCompanion.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>91</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>

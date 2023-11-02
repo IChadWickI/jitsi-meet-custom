@@ -1,10 +1,12 @@
-import { NativeModules } from 'react-native';
+import { NativeModules, Platform } from 'react-native';
 
 import { IStore } from '../../../app/types';
 import { PIP_ENABLED } from '../../../base/flags/constants';
 import { getFeatureFlag } from '../../../base/flags/functions';
+import { ToggleCamera } from '../../../base/media/actions';
 
-import Platform from '../../../base/react/Platform.native';
+
+// import Platform from '../../../base/react/Platform.native';
 
 export const TOGGLE_CAMERA_FACING_MODE = 'TOGGLE_CAMERA_FACING_MODE';
 
@@ -18,27 +20,12 @@ export const TOGGLE_CAMERA_FACING_MODE = 'TOGGLE_CAMERA_FACING_MODE';
  * @public
  * @returns {Function}
  */
-export function toggleCameraFacingMode(){
-    console.log("toggleCameraFacingMode, toggleCameraFacingMode react girdi.");
-    
-    return (dispatch: IStore['dispatch'], getState: IStore['getState']) => {
-        if (getFeatureFlag(getState, PIP_ENABLED)) {
-            const { ToggleCamera } = NativeModules;
-            const p = Platform.OS === 'android'
-                ? ToggleCamera
-                    ? ToggleCamera.toggleCameraFacingMode()
-                    : Promise.reject(new Error('Kamera değiştirilemedi'))
-                : Promise.resolve();
+export function toggleCameraFacingMode() {
 
-                p.then(() => {
-                    console.log("Kamera değiştirme işlemi başarılı.");
-                    //dispatch({ type: TOGGLE_CAMERA_FACING_MODE });
-                }).catch((error) => {
-                    console.error("Kamera değiştirme işlemi başarısız: " + error.message);
-                
-                });
+    console.log('toggleCameraFacingMode, toggleCameraFacingMode react girdi.');
     
-        }
+    return {
+        type: TOGGLE_CAMERA_FACING_MODE
     };
 }
 

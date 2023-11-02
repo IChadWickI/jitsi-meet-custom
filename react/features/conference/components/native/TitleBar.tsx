@@ -45,16 +45,6 @@ interface IProps {
      */
     _visible: boolean;
 }
-/*
-export const TOGGLE_CAMERA_FACING_MODE = 'TOGGLE_CAMERA_FACING_MODE';
-let toggleCameraListener = null;
-// Redux eylemini oluşturan işlev
-export function toggleCameraFacingModeAction() {
-    return {
-        type: TOGGLE_CAMERA_FACING_MODE,
-    };
-}*/
-
 
 /**
  * Implements a navigation bar component that is rendered on top of the
@@ -69,21 +59,6 @@ const TitleBar = (props: IProps) => {
     if (!_visible) {
         return null;
     }
-/*
-
-    function createToggleCameraListener() {
-        if (!toggleCameraListener) {
-            toggleCameraListener = DeviceEventEmitter.addListener('TOGGLE_CAMERA_FACING_MODE_EVENT', eventData => {
-                console.log('TOGGLE_CAMERA_FACING_MODE_EVENT tetiklendi:', eventData.message);
-                props.dispatch(toggleCameraFacingModeAction());
-            });
-        }
-    }
-
-    if (!toggleCameraListener) {
-        console.log("Listener oluştu.");
-        createToggleCameraListener();
-    }*/
 
 
     return (
