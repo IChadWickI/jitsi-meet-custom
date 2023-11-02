@@ -95,6 +95,8 @@ const SCREEN_SHARE_TOGGLED = 'SCREEN_SHARE_TOGGLED';
  */
 const PARTICIPANTS_INFO_RETRIEVED = 'PARTICIPANTS_INFO_RETRIEVED';
 
+export const TOGGLE_CAMERA_FACING_MODE = 'TOGGLE_CAMERA_FACING_MODE';
+
 const externalAPIEnabled = isExternalAPIAvailable();
 
 let eventEmitter: any;
@@ -384,6 +386,11 @@ function _registerForNativeEvents(store: IStore) {
     });
 
     eventEmitter.addListener(ExternalAPI.TOGGLE_CAMERA, () => {
+        dispatch(toggleCameraFacingMode());
+    });
+
+    eventEmitter.addListener(TOGGLE_CAMERA_FACING_MODE_EVENT, eventData => {
+        console.log('TOGGLE_CAMERA_FACING_MODE_EVENT tetiklendi:', eventData.message);
         dispatch(toggleCameraFacingMode());
     });
 }

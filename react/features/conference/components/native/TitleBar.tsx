@@ -45,7 +45,7 @@ interface IProps {
      */
     _visible: boolean;
 }
-
+/*
 export const TOGGLE_CAMERA_FACING_MODE = 'TOGGLE_CAMERA_FACING_MODE';
 let toggleCameraListener = null;
 // Redux eylemini oluşturan işlev
@@ -53,7 +53,7 @@ export function toggleCameraFacingModeAction() {
     return {
         type: TOGGLE_CAMERA_FACING_MODE,
     };
-}
+}*/
 
 
 /**
@@ -69,7 +69,7 @@ const TitleBar = (props: IProps) => {
     if (!_visible) {
         return null;
     }
-
+/*
 
     function createToggleCameraListener() {
         if (!toggleCameraListener) {
@@ -83,7 +83,7 @@ const TitleBar = (props: IProps) => {
     if (!toggleCameraListener) {
         console.log("Listener oluştu.");
         createToggleCameraListener();
-    }
+    }*/
 
 
     return (
